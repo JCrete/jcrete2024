@@ -37,8 +37,8 @@
 * 
 
 ## Day 6 JCrete4Kids Chania (28.07.2018)
-* [Program Video Greetings and Animal Patterns in JavaScript!](JCrete4Kids/JavaScript/)
-* [Escape Game with Karla](JCrete4Kids/Karla/)
+* [Program Video Greetings and Animal Patterns in JavaScript!](https://horstmann.com/presentations/2024/jcrete4kids/)
+* [Escape Game with Karla](http://karla.lahoda.info/?lang=el)
 
 ## Photos
 

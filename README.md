@@ -7,8 +7,7 @@
 | 1         | 09:15 - 10:15  | Skills for Future developers (Ola) | Observability (Ben Evans) | API design (Giulame) | High Throuput (Quic, ...) (Sven) | DevOps for AI (Oleg) | Microservices () |
 | 2         | 10:30 - 11:30  | Mision Critical Software (Martin Thompson) | Fast JVM Bootstrapping (cRac, ...) (Jurgen) | JVM GC ()  |         | JReleaser (Andres) | AI not a BS () |
 | 3         | 11:45 - 12:45  | SiMPLE (Cliff Click) | Virtual Threads (Cay) | How to Produce Own Book () | Declarative vs. Imperative Builds (Jan Lahoda) | XTC () | Gen AI for Java |
-| 4         | 12:45 - 13:45  | Moden Java (Christian) | 10 years Aeron (Dmytro) | Hindley Milner Tutorial (Cliff Click) | Java/Kotlin as AI Impl. language (Marcus) | Writing Books (Ben Evans) | JVM to KVM with Virt-IO (Adam) 
-
+ 
 ## Day 2 (24.07.2023)
 
 | Session # | Time/Room      | Main Room    | Panas    | Athina  | Dionysos | Restaurant | Sofa |   

@@ -12,9 +12,9 @@
 
 | Session # | Time/Room      | Main Room    | Panas    | Athina  | Dionysos | Restaurant | Sofa |   
 |-----------|----------------|--------------|----------|--------|-----------|------------|------|
-| 4         | 09:15 - 10:15  |              |          |        |         |         |      |
-| 5         | 10:30 - 11:30  |              |          |        |         |         |      |
-| 6         | 11:45 - 12:45  |              |          |        |         |         |      |
+| 4         | 09:30 - 10:30  | Diagnostics Skills (Kirk, Marc, Mary) | Simple Sea of Nodes Part II (Cliff) | Grounding LLM Resources (Rod) | Is OpenSource Dead? (Simon, Andres) | -     |  Neurodiverse  |
+| 5         | 10:45 - 11:45  | Data Oriented Programming | Virtual Threads II (Francois, Gonzalo) | Books Writing (Ben, Cay) | Functional Programming (Gregor) | Aeron 10 (Dmytro, Martin) |   Type Pollution (Franz)   |
+| 6         | 12:00 - 13:00  | Beyond Java 2.0 (Kirk) | HTTP/3, Jetty, JakartaEE 11 (Simon) | Queues and Concurrency in Collections framework (Maurice) | Platform Teams (Kaarel) |       Java Modules (Chris) | Native Code/Memory (Gonzalo)  |
 
 ## Day 3 (25.07.2023)
 

@@ -1,6 +1,8 @@
 
 # Platform Teams - How, When, Why?
 
+[Screenshot](platform-teams.jpg)
+
 ## Introduction
 
 We focused mostly on the collaboration between stream-aligned teams and platform teams as defined in Team Topologies: https://teamtopologies.com/key-concepts

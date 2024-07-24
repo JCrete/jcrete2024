@@ -34,7 +34,7 @@
 
 ## Day 5 - Hackday (27.07.2023)
 
-* 
+* [Custom enforcer rule to verify existence of artifacts and their content in Maven](Day5/custom-maven-enforcer-rule)
 
 ## Day 6 JCrete4Kids Chania (28.07.2018)
 * [Program Video Greetings and Animal Patterns in JavaScript!](https://horstmann.com/presentations/2024/jcrete4kids/)

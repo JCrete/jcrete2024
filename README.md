@@ -18,12 +18,11 @@
 
 ## Day 3 (25.07.2023)
 
-
 | Session # | Time/Room      | Main Room    | Dionysos | Panas  | Athina  | Hacking | Sofa |   
 |-----------|----------------|--------------|----------|--------|---------|---------|------|
-| 7         | 14:15 - 15:15  |              |          |        |         |         |      |
-| 8         | 15:30 - 16:30  |              |          |        |         |         |      |
-| 9         | 16:45 - 17:45  |              |          |        |         |         |      |
+| 7         | 14:30 - 15:15  | Soft Skills for Developers (Kirk, Ola) | Design patterns for mixing Natural Language, Code and Data (Rod Johnson) | JSpecify (Ben Evans) | Unconferences (Jose Paumard) | Language Servers (Marcus) | Kotlin (Anton) |
+| 8         | 15:45 - 16:45  | Preventing Burnout in IT (Jiola) | The Origins of Complexity (Ben Evans) | Static Analyzers (Tagir Valeer) | The Future of Server Side Java (Igor) |        JVM Assumptions (Franz) | GenAI/LLM (Sebastian) |
+| 9         | 17:00 - 18:00  | Practical AI with Quarkus & Langchain4j (Dimitris) | How to get the most out of H/W (Dmytro) | Java in the small (Cay, Christian) | The Long Road (Don) |   Benchmarketing Lies (Franz) | Hindely Milner Typing (Cliff Click) |
 
 ## Day 4 (26.07.2023)
 

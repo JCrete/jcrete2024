@@ -36,6 +36,17 @@
 
 * [Custom enforcer rule to verify existence of artifacts and their content in Maven](Day5/custom-maven-enforcer-rule)
 * [Memory Bandwidth (Cliff Click)](Day5/cliffclick_memory_bandwidth/README.md)
+* Jetty & HTTP/3 (Simon)
+* Create a WRS app in XTC (Simon)
+* Valhalla (Cay Horstmann)
+* Vector & Memory API (Jose Paumard)
+* [A SiMPLE compiler (Cliff Click)](https://github.com/Cliff-exception/SIMPLE_COMPILER)
+* Diagnostic Strategies
+* JMH Microbenchmarking Fallacies (Franz)
+* Async Profiler (Franz)
+* Build Java Binaries with only Java sources (Christian)
+* Get started with Rocks Java (Adam)
+* LSP (Jan Lahoda)
 
 ## Day 6 JCrete4Kids Chania (27.07.2024)
 * [Program Video Greetings and Animal Patterns in JavaScript!](https://horstmann.com/presentations/2024/jcrete4kids/)

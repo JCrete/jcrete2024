@@ -28,7 +28,7 @@
 
 | Session # | Time/Room      | Main Room    | Athina                                         | Panas  | Dionysos | Hacking | Sofa |   
 |-----------|----------------|--------------|------------------------------------------------|--------|----------|---------|------|
-| 10        | 09:15 - 10:15  | Aeron (Martin, Dmytro) | Learn from Golang (Gregorz)                    | Tests How much is enough? () | Interviews (Ola, Jonathan) | Spring Framework AMA (Jurgen) | Data centric OOdb Schemas (Jose) |
+| 10        | 09:15 - 10:15  | Aeron (Martin, Dmytro) | Learn from Golang (Gregorz)                    | Tests How much is enough? () | [Interviews (Ola, Jonathan)](Day4/Session1/Interviews.md) | Spring Framework AMA (Jurgen) | Data centric OOdb Schemas (Jose) |
 | 11        | 10:30 - 11:30  | Cost of Allocation (Cliff Click) | [Green Java, Climate Change (Holly, Yorgos)](Day4/Session2/ClimateChange+GreenJava/README.md) | Pattern matching (Cay) | Project Euler (Heinz) | Coping with Conflict (Kirk) |    Exceptional Manager (Mary) |
 | 12        | 11:45 - 12:45  | Java Quizzes (Jose Paumard) | Open Source (Tagir)                            | Social Mental Models () | Teaching and Learning with LLMs (Thoddac) | Improving Remote working () |    Kill me softly (Ixchel) |
 

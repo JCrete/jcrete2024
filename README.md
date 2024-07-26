@@ -4,7 +4,7 @@
 
 | Session # | Time/Room      | Main Room    | Panas    | Athina  | Dionysos | Restaurant | Sofa |   
 |-----------|----------------|--------------|----------|--------|-----------|------------|------|
-| 1         | 09:15 - 10:15  | Skills for Future developers (Ola) | Observability (Ben Evans) | API design (Giulame) | High Throuput (Quic, ...) (Sven) | DevOps for AI (Oleg) | Microservices () |
+| 1         | 09:15 - 10:15  | [Skills for Future developers (Ola)](Day1/Session1/SkillsForFutureDevelopers.md) | Observability (Ben Evans) | API design (Giulame) | High Throuput (Quic, ...) (Sven) | DevOps for AI (Oleg) | Microservices () |
 | 2         | 10:30 - 11:30  | Mision Critical Software (Martin Thompson) | Fast JVM Bootstrapping (cRac, ...) (Jurgen) | JVM GC (Jonathan)  | Java in Education (Sven Reimers) | JReleaser (Andres) | AI not a BS () |
 | 3         | 11:45 - 12:45  | SiMPLE (Cliff Click) | Virtual Threads (Cay) | How to Produce Own Book () | Declarative vs. Imperative Builds (Jan Lahoda) | XTC () | Gen AI for Java |
  

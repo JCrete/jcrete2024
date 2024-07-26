@@ -35,6 +35,7 @@
 ## Day 5 - Hackday (26.07.2024)
 
 * [Custom enforcer rule to verify existence of artifacts and their content in Maven](Day5/custom-maven-enforcer-rule)
+* [Memory Bandwidth (Cliff Click)](Day5/cliffclick_memory_bandwidth/README.md)
 
 ## Day 6 JCrete4Kids Chania (27.07.2024)
 * [Program Video Greetings and Animal Patterns in JavaScript!](https://horstmann.com/presentations/2024/jcrete4kids/)

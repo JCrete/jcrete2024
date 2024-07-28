@@ -9,7 +9,8 @@
 
 - https://github.com/cschanck/single-file-java - One file, one piece of functionality. No dependencies.
 - https://github.com/sormuras/jigsaw-quick-start - Use Java to build Java projects.
-
+- https://advancedweb.hu/using-external-libraries-in-jshell/ - Using JShell with Maven artifacts
+- https://github.com/arkanovicz/essential-json - Single file JSON library, suitable for parsing JSON with multi-file source-code programs
 
 [On-Ramp]: https://openjdk.org/projects/amber/design-notes/on-ramp
 [JEP 330]: https://openjdk.org/jeps/330

@@ -1,4 +1,4 @@
-# Skills for Future developers
+# Preventing burnout in IT
 
 ## Key takeaways:
 

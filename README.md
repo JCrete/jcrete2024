@@ -12,7 +12,7 @@
 
 | Session # | Time/Room      | Main Room    | Panas    | Athina  | Dionysos | Restaurant | Sofa |   
 |-----------|----------------|--------------|----------|--------|-----------|------------|------|
-| 4         | 09:30 - 10:30  | Diagnostics Skills (Kirk, Marc, Mary) | Simple Sea of Nodes Part II (Cliff) | Grounding LLM Resources (Rod) | Is OpenSource Dead? (Simon, Andres) | -     |  Neurodiverse  |
+| 4         | 09:30 - 10:30  | Diagnostics Skills (Kirk, Marc, Mary) | [Simple Sea of Nodes Part II (Cliff)]((https://github.com/SeaOfNodes/Simple)) | Grounding LLM Resources (Rod Johnson) | Is OpenSource Dead? (Simon, Andres) | -     |  Neurodiverse (ags) |
 | 5         | 10:45 - 11:45  | [Data Oriented Programming (Jose)](https://github.com/JosePaumard/2024_DevoxxFR-Amber-lab)| Virtual Threads II (Francois, Gonzalo) | [Books Writing (Ben, Cay)](Day2/Session2/BooksWriting.md) | Functional Programming (Gregor) | Aeron 10 (Dmytro, Martin) |   Type Pollution (Franz)   |
 | 6         | 12:00 - 13:00  | Beyond Java 2.0 (Kirk) | HTTP/3, Jetty, JakartaEE 11 (Simon) | Queues and Concurrency in Collections framework (Maurice) | [Platform Teams (Kaarel)](Day2/Session3/PlatformTeams/) | [Java Modules (Christian)](https://github.com/sormuras/modules) | [Native Code/Memory](Day2/Session3/native-memory-code-performance) (Gonzalo, Adam)  |
 
@@ -21,16 +21,15 @@
 | Session # | Time/Room      | Main Room    | Dionysos | Panas  | Athina  | Hacking | Sofa |   
 |-----------|----------------|--------------|----------|--------|---------|---------|------|
 | 7         | 14:30 - 15:30  | Soft Skills for Developers (Kirk, Ola) | Design patterns for mixing Natural Language, Code and Data (Rod Johnson) | JSpecify (Ben Evans) | Unconferences (Jose Paumard) | Language Servers (Marcus) | Kotlin (Anton) |
-| 8         | 15:45 - 16:45  | Preventing Burnout in IT (Jiola, Kirk) | JVM Assumptions (Franz) | Static Analyzers (Tagir Valeer) | The Future of Server Side Java (Igor) | GenAI/LLM (Sebastian) | The Origins of Complexity (Ben Evans)  |
+| 8         | 15:45 - 16:45  | [Preventing Burnout in IT (Jiola, Kirk)](Day3/Session2/PreventingBurnoutInIT.md) | JVM Assumptions (Franz) | Static Analyzers (Tagir Valeer) | The Future of Server Side Java (Igor) | GenAI/LLM (Sebastian) | The Origins of Complexity (Ben Evans)  |
 | 9         | 17:00 - 18:00  | [Practical AI with Quarkus & Langchain4j (Dimitris Andreadis)](https://github.com/quarkiverse/quarkus-langchain4j) | How to get the most out of H/W (Dmytro) | [Java in the small (Ben, Cay, Christian)](Day3/Session3/JavaInTheSmall.md) | The Long Road (Don) |   Benchmarketing Lies (Franz) | Hindely Milner Typing (Cliff Click) |
 
 ## Day 4 (25.07.2024)
-
 | Session # | Time/Room      | Main Room    | Athina                                         | Panas  | Dionysos | Hacking | Sofa |   
 |-----------|----------------|--------------|------------------------------------------------|--------|----------|---------|------|
 | 10        | 09:15 - 10:15  | Aeron (Martin, Dmytro) | Learn from Golang (Gregorz)                    | Tests How much is enough? () | [Interviews (Ola, Jonathan)](Day4/Session1/Interviews.md) | Spring Framework AMA (Jurgen) | Data centric OOdb Schemas (Jose) |
 | 11        | 10:30 - 11:30  | Cost of Allocation (Cliff Click) | [Green Java, Climate Change (Holly, Yorgos)](Day4/Session2/ClimateChange+GreenJava/README.md) | [Pattern matching (Cay)](https://horstmann.com/presentations/2024/jcrete) | [Project Euler (Heinz)](https://projecteuler.net/archives) | Coping with Conflict (Kirk) |    Exceptional Manager (Mary) |
-| 12        | 11:45 - 12:45  | Java Quizzes (Jose Paumard) | Open Source (Tagir)                            | Social Mental Models () | Teaching and Learning with LLMs (Thoddac) | Improving Remote working () |    Kill me softly (Ixchel) |
+| 12        | 11:45 - 12:45  | Java Quizzes (Jose Paumard) | Open Source (Tagir)                            | Social Mental Models (ags)](Day4/Session3/social_mental_models/social_mental_models.md) | Teaching and Learning with LLMs (Thoddac) | Improving Remote working () |    Kill me softly (Ixchel) |
 
 ## Day 5 - Hackday (26.07.2024)
 
